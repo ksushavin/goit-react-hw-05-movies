@@ -1,0 +1,10 @@
+.link {
+    font-size: 18px;
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(38, 0, 255);
+
+    &.active {
+        color: rgb(240, 14, 14);
+    }
+}

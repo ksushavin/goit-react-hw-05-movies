@@ -1,0 +1,20 @@
+main{
+    padding: 15px;
+    padding-bottom: 40px;
+}
+.container {
+    display: flex;
+}
+.poster{
+    width: 450px;
+    height: 500px;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+.addInfo {
+    border-bottom: 2px solid grey;
+    box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.3);
+}
+.addInfo__item {
+    margin-bottom: 10px;
+}

@@ -1,6 +1,6 @@
 
-import css from 'components/NavBar.module.css';
-import { NavBarMenu } from './NavBarMenu';
+import css from 'components/NavBar/NavBar.module.css';
+import { NavBarMenu } from 'components/NavBarMenu/NavBarMenu';
 
 
 export const NavBar = () => {
